@@ -1,9 +1,9 @@
   body {
    padding-left: 11em;
-   font-family: Georgia, "Times New Roman",
-          Times, serif;
-		  color: purple;
-    background-color: #d8da3d }
+   font-family: Georgia, "Sans-Serif",
+          Sans, serif;
+		  color: #ffffffda;
+    background-color: #252525 }
 	 ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -16,16 +16,17 @@
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
 		ul.navbar li {
-    background: white;
+    border-radius: 10px;
+    background: #ffffff91;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    border-right: 1em solid #ffffff }
   ul.navbar a {
     text-decoration: none }
   a:link {
-    color: blue }
+    color: #ffffff }
   a:visited {
-    color: purple }
+    color: #ffffffda }
 	address {
     margin-top: 1em;
     padding-top: 1em;
