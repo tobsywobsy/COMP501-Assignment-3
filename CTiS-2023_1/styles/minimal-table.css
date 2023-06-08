@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  padding-left: 11em;
+  padding-left: 12em;
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #ffffffda;
   background-color: #252525;
@@ -13,7 +13,7 @@ ul.navbar {
   position: absolute;
   top: 2em;
   left: 1em;
-  width: 9em;
+  width: 10em;
 }
 
 h1 {
