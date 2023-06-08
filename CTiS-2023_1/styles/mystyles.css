@@ -1,6 +1,7 @@
 body {
+  font-family: sans-serif;
   padding-left: 12em;
-  font-family: Georgia, "Sans-Serif", Sans, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   color: #ffffffda;
   background-color: #252525;
 }
